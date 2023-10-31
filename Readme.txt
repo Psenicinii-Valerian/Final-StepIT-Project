@@ -1,0 +1,1 @@
+This is my last StepIT project. It's a Car Auction Web Application, where you can both sell and put on auction your car.
